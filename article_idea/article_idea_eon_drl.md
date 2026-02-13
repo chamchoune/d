@@ -30,14 +30,29 @@ Design and evaluate DRL-based RSA (Routing and Spectrum Allocation) policies for
 - **Load sweep**: 80 to 160 Erlangs.
 
 ## Result figures included (illustrative)
+Core performance:
 1. **Blocking Probability vs. Traffic Load**  
    `figures/blocking_probability_vs_load.svg`
 2. **Spectrum Utilization vs. Traffic Load**  
    `figures/spectrum_utilization_vs_load.svg`
 3. **Service Acceptance vs. Traffic Load**  
    `figures/service_acceptance_vs_load.svg`
-4. **Training Convergence (Reward vs. Episode)**  
+4. **Average Reward vs. Traffic Load**  
+   `figures/avg_reward_vs_load.svg`
+
+Comparative/diagnostic:
+5. **Blocking Reduction over Heuristic-FF (%)**  
+   `figures/blocking_improvement_over_heuristic.svg`
+6. **Service Acceptance at Peak Load (bar chart)**  
+   `figures/acceptance_at_peak_load.svg`
+7. **Blocking Probability Heatmap (Method × Load)**  
+   `figures/blocking_heatmap.svg`
+
+Learning dynamics:
+8. **Training Convergence (Reward vs. Episode)**  
    `figures/training_convergence.svg`
+9. **Smoothed Training Convergence (window=3)**  
+   `figures/training_convergence_smoothed.svg`
 
 ## How to replace with real simulator outputs
 1. Run `eon_simulator` experiments for each method and load value.
