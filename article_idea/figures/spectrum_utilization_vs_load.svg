@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="560" viewBox="0 0 900 560">
+<rect width="100%" height="100%" fill="white"/>
+<text x="450.0" y="28" text-anchor="middle" font-size="22" font-family="Arial">Spectrum Utilization vs. Traffic Load</text>
+<line x1="80" y1="480" x2="860" y2="480" stroke="black"/>
+<line x1="80" y1="480" x2="80" y2="50" stroke="black"/>
+<line x1="80" y1="480.0" x2="860" y2="480.0" stroke="#e8e8e8"/>
+<text x="72" y="484.0" text-anchor="end" font-size="12" font-family="Arial">0.520</text>
+<line x1="80" y1="394.0" x2="860" y2="394.0" stroke="#e8e8e8"/>
+<text x="72" y="398.0" text-anchor="end" font-size="12" font-family="Arial">0.592</text>
+<line x1="80" y1="308.0" x2="860" y2="308.0" stroke="#e8e8e8"/>
+<text x="72" y="312.0" text-anchor="end" font-size="12" font-family="Arial">0.664</text>
+<line x1="80" y1="222.0" x2="860" y2="222.0" stroke="#e8e8e8"/>
+<text x="72" y="226.0" text-anchor="end" font-size="12" font-family="Arial">0.736</text>
+<line x1="80" y1="136.0" x2="860" y2="136.0" stroke="#e8e8e8"/>
+<text x="72" y="140.0" text-anchor="end" font-size="12" font-family="Arial">0.808</text>
+<line x1="80" y1="50.0" x2="860" y2="50.0" stroke="#e8e8e8"/>
+<text x="72" y="54.0" text-anchor="end" font-size="12" font-family="Arial">0.880</text>
+<line x1="80.0" y1="480" x2="80.0" y2="485" stroke="black"/>
+<text x="80.0" y="502" text-anchor="middle" font-size="12" font-family="Arial">80</text>
+<line x1="275.0" y1="480" x2="275.0" y2="485" stroke="black"/>
+<text x="275.0" y="502" text-anchor="middle" font-size="12" font-family="Arial">100</text>
+<line x1="470.0" y1="480" x2="470.0" y2="485" stroke="black"/>
+<text x="470.0" y="502" text-anchor="middle" font-size="12" font-family="Arial">120</text>
+<line x1="665.0" y1="480" x2="665.0" y2="485" stroke="black"/>
+<text x="665.0" y="502" text-anchor="middle" font-size="12" font-family="Arial">140</text>
+<line x1="860.0" y1="480" x2="860.0" y2="485" stroke="black"/>
+<text x="860.0" y="502" text-anchor="middle" font-size="12" font-family="Arial">160</text>
+<path d="M80.0,360.6 L275.0,288.9 L470.0,229.2 L665.0,169.4 L860.0,109.7" fill="none" stroke="#1f77b4" stroke-width="2.5"/>
+<circle cx="80.0" cy="360.6" r="3.5" fill="#1f77b4"/>
+<circle cx="275.0" cy="288.9" r="3.5" fill="#1f77b4"/>
+<circle cx="470.0" cy="229.2" r="3.5" fill="#1f77b4"/>
+<circle cx="665.0" cy="169.4" r="3.5" fill="#1f77b4"/>
+<circle cx="860.0" cy="109.7" r="3.5" fill="#1f77b4"/>
+<path d="M80.0,444.2 L275.0,384.4 L470.0,312.8 L665.0,253.1 L860.0,193.3" fill="none" stroke="#d62728" stroke-width="2.5"/>
+<circle cx="80.0" cy="444.2" r="3.5" fill="#d62728"/>
+<circle cx="275.0" cy="384.4" r="3.5" fill="#d62728"/>
+<circle cx="470.0" cy="312.8" r="3.5" fill="#d62728"/>
+<circle cx="665.0" cy="253.1" r="3.5" fill="#d62728"/>
+<circle cx="860.0" cy="193.3" r="3.5" fill="#d62728"/>
+<path d="M80.0,336.7 L275.0,265.0 L470.0,205.3 L665.0,145.6 L860.0,85.8" fill="none" stroke="#2ca02c" stroke-width="2.5"/>
+<circle cx="80.0" cy="336.7" r="3.5" fill="#2ca02c"/>
+<circle cx="275.0" cy="265.0" r="3.5" fill="#2ca02c"/>
+<circle cx="470.0" cy="205.3" r="3.5" fill="#2ca02c"/>
+<circle cx="665.0" cy="145.6" r="3.5" fill="#2ca02c"/>
+<circle cx="860.0" cy="85.8" r="3.5" fill="#2ca02c"/>
+<text x="450.0" y="540" text-anchor="middle" font-size="14" font-family="Arial">Traffic Load (Erlangs)</text>
+<text x="20" y="280.0" transform="rotate(-90 20 280.0)" text-anchor="middle" font-size="14" font-family="Arial">Spectrum Utilization</text>
+<rect x="698" y="58" width="180" height="100" fill="white" stroke="#ccc"/>
+<line x1="710" y1="80" x2="734" y2="80" stroke="#1f77b4" stroke-width="3"/>
+<text x="742" y="84" font-size="13" font-family="Arial">DQN-EON</text>
+<line x1="710" y1="108" x2="734" y2="108" stroke="#d62728" stroke-width="3"/>
+<text x="742" y="112" font-size="13" font-family="Arial">Heuristic-FF</text>
+<line x1="710" y1="136" x2="734" y2="136" stroke="#2ca02c" stroke-width="3"/>
+<text x="742" y="140" font-size="13" font-family="Arial">PPO-EON</text>
+</svg>
