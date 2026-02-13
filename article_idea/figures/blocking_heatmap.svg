@@ -1,0 +1,137 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="580" viewBox="0 0 980 580">
+<rect width="100%" height="100%" fill="white"/>
+<text x="490.0" y="28" text-anchor="middle" font-size="22" font-family="Arial">Blocking Probability Heatmap (Method × Load)</text>
+<text x="128" y="145.0" text-anchor="end" font-size="13" font-family="Arial">DQN-EON</text>
+<rect x="140.0" y="70.0" width="142.0" height="140.0" fill="#f3f3fe" stroke="white"/>
+<text x="211.0" y="145.0" text-anchor="middle" font-size="12" font-family="Arial">0.006</text>
+<rect x="282.0" y="70.0" width="142.0" height="140.0" fill="#ece9fa" stroke="white"/>
+<text x="353.0" y="145.0" text-anchor="middle" font-size="12" font-family="Arial">0.012</text>
+<rect x="424.0" y="70.0" width="142.0" height="140.0" fill="#e1daf3" stroke="white"/>
+<text x="495.0" y="145.0" text-anchor="middle" font-size="12" font-family="Arial">0.021</text>
+<rect x="566.0" y="70.0" width="142.0" height="140.0" fill="#cec0e9" stroke="white"/>
+<text x="637.0" y="145.0" text-anchor="middle" font-size="12" font-family="Arial">0.036</text>
+<rect x="708.0" y="70.0" width="142.0" height="140.0" fill="#b8a2dd" stroke="white"/>
+<text x="779.0" y="145.0" text-anchor="middle" font-size="12" font-family="Arial">0.054</text>
+<text x="128" y="285.0" text-anchor="end" font-size="13" font-family="Arial">Heuristic-FF</text>
+<rect x="140.0" y="210.0" width="142.0" height="140.0" fill="#e4dff5" stroke="white"/>
+<text x="211.0" y="285.0" text-anchor="middle" font-size="12" font-family="Arial">0.018</text>
+<rect x="282.0" y="210.0" width="142.0" height="140.0" fill="#cfc2ea" stroke="white"/>
+<text x="353.0" y="285.0" text-anchor="middle" font-size="12" font-family="Arial">0.035</text>
+<rect x="424.0" y="210.0" width="142.0" height="140.0" fill="#af96d8" stroke="white"/>
+<text x="495.0" y="285.0" text-anchor="middle" font-size="12" font-family="Arial">0.061</text>
+<rect x="566.0" y="210.0" width="142.0" height="140.0" fill="#845cbf" stroke="white"/>
+<text x="637.0" y="285.0" text-anchor="middle" font-size="12" font-family="Arial">0.096</text>
+<rect x="708.0" y="210.0" width="142.0" height="140.0" fill="#4b0fa0" stroke="white"/>
+<text x="779.0" y="285.0" text-anchor="middle" font-size="12" font-family="Arial">0.142</text>
+<text x="128" y="425.0" text-anchor="end" font-size="13" font-family="Arial">PPO-EON</text>
+<rect x="140.0" y="350.0" width="142.0" height="140.0" fill="#f5f5ff" stroke="white"/>
+<text x="211.0" y="425.0" text-anchor="middle" font-size="12" font-family="Arial">0.005</text>
+<rect x="282.0" y="350.0" width="142.0" height="140.0" fill="#eeecfb" stroke="white"/>
+<text x="353.0" y="425.0" text-anchor="middle" font-size="12" font-family="Arial">0.010</text>
+<rect x="424.0" y="350.0" width="142.0" height="140.0" fill="#e4dff5" stroke="white"/>
+<text x="495.0" y="425.0" text-anchor="middle" font-size="12" font-family="Arial">0.018</text>
+<rect x="566.0" y="350.0" width="142.0" height="140.0" fill="#d4c9ec" stroke="white"/>
+<text x="637.0" y="425.0" text-anchor="middle" font-size="12" font-family="Arial">0.031</text>
+<rect x="708.0" y="350.0" width="142.0" height="140.0" fill="#c0aee1" stroke="white"/>
+<text x="779.0" y="425.0" text-anchor="middle" font-size="12" font-family="Arial">0.047</text>
+<text x="211.0" y="514" text-anchor="middle" font-size="12" font-family="Arial">80</text>
+<text x="353.0" y="514" text-anchor="middle" font-size="12" font-family="Arial">100</text>
+<text x="495.0" y="514" text-anchor="middle" font-size="12" font-family="Arial">120</text>
+<text x="637.0" y="514" text-anchor="middle" font-size="12" font-family="Arial">140</text>
+<text x="779.0" y="514" text-anchor="middle" font-size="12" font-family="Arial">160</text>
+<text x="490.0" y="560" text-anchor="middle" font-size="14" font-family="Arial">Traffic Load (Erlangs)</text>
+<rect x="885" y="490.0" width="26" height="6.2" fill="#f5f5ff" stroke="none"/>
+<rect x="885" y="484.8" width="26" height="6.2" fill="#f2f2fd" stroke="none"/>
+<rect x="885" y="479.5" width="26" height="6.2" fill="#f0effc" stroke="none"/>
+<rect x="885" y="474.2" width="26" height="6.2" fill="#eeecfb" stroke="none"/>
+<rect x="885" y="469.0" width="26" height="6.2" fill="#ece9fa" stroke="none"/>
+<rect x="885" y="463.8" width="26" height="6.2" fill="#eae6f9" stroke="none"/>
+<rect x="885" y="458.5" width="26" height="6.2" fill="#e8e3f7" stroke="none"/>
+<rect x="885" y="453.2" width="26" height="6.2" fill="#e6e0f6" stroke="none"/>
+<rect x="885" y="448.0" width="26" height="6.2" fill="#e4def5" stroke="none"/>
+<rect x="885" y="442.8" width="26" height="6.2" fill="#e1dbf4" stroke="none"/>
+<rect x="885" y="437.5" width="26" height="6.2" fill="#dfd8f3" stroke="none"/>
+<rect x="885" y="432.2" width="26" height="6.2" fill="#ddd5f1" stroke="none"/>
+<rect x="885" y="427.0" width="26" height="6.2" fill="#dbd2f0" stroke="none"/>
+<rect x="885" y="421.8" width="26" height="6.2" fill="#d9cfef" stroke="none"/>
+<rect x="885" y="416.5" width="26" height="6.2" fill="#d7ccee" stroke="none"/>
+<rect x="885" y="411.2" width="26" height="6.2" fill="#d5c9ed" stroke="none"/>
+<rect x="885" y="406.0" width="26" height="6.2" fill="#d3c7ec" stroke="none"/>
+<rect x="885" y="400.8" width="26" height="6.2" fill="#d0c4ea" stroke="none"/>
+<rect x="885" y="395.5" width="26" height="6.2" fill="#cec1e9" stroke="none"/>
+<rect x="885" y="390.2" width="26" height="6.2" fill="#ccbee8" stroke="none"/>
+<rect x="885" y="385.0" width="26" height="6.2" fill="#cabbe7" stroke="none"/>
+<rect x="885" y="379.8" width="26" height="6.2" fill="#c8b8e6" stroke="none"/>
+<rect x="885" y="374.5" width="26" height="6.2" fill="#c6b5e4" stroke="none"/>
+<rect x="885" y="369.2" width="26" height="6.2" fill="#c4b2e3" stroke="none"/>
+<rect x="885" y="364.0" width="26" height="6.2" fill="#c2b0e2" stroke="none"/>
+<rect x="885" y="358.8" width="26" height="6.2" fill="#bfade1" stroke="none"/>
+<rect x="885" y="353.5" width="26" height="6.2" fill="#bdaae0" stroke="none"/>
+<rect x="885" y="348.2" width="26" height="6.2" fill="#bba7de" stroke="none"/>
+<rect x="885" y="343.0" width="26" height="6.2" fill="#b9a4dd" stroke="none"/>
+<rect x="885" y="337.8" width="26" height="6.2" fill="#b7a1dc" stroke="none"/>
+<rect x="885" y="332.5" width="26" height="6.2" fill="#b59edb" stroke="none"/>
+<rect x="885" y="327.2" width="26" height="6.2" fill="#b39bda" stroke="none"/>
+<rect x="885" y="322.0" width="26" height="6.2" fill="#b199d9" stroke="none"/>
+<rect x="885" y="316.8" width="26" height="6.2" fill="#ae96d7" stroke="none"/>
+<rect x="885" y="311.5" width="26" height="6.2" fill="#ac93d6" stroke="none"/>
+<rect x="885" y="306.2" width="26" height="6.2" fill="#aa90d5" stroke="none"/>
+<rect x="885" y="301.0" width="26" height="6.2" fill="#a88dd4" stroke="none"/>
+<rect x="885" y="295.8" width="26" height="6.2" fill="#a68ad3" stroke="none"/>
+<rect x="885" y="290.5" width="26" height="6.2" fill="#a487d1" stroke="none"/>
+<rect x="885" y="285.2" width="26" height="6.2" fill="#a284d0" stroke="none"/>
+<rect x="885" y="280.0" width="26" height="6.2" fill="#a082cf" stroke="none"/>
+<rect x="885" y="274.8" width="26" height="6.2" fill="#9d7fce" stroke="none"/>
+<rect x="885" y="269.5" width="26" height="6.2" fill="#9b7ccd" stroke="none"/>
+<rect x="885" y="264.2" width="26" height="6.2" fill="#9979cb" stroke="none"/>
+<rect x="885" y="259.0" width="26" height="6.2" fill="#9776ca" stroke="none"/>
+<rect x="885" y="253.8" width="26" height="6.2" fill="#9573c9" stroke="none"/>
+<rect x="885" y="248.5" width="26" height="6.2" fill="#9370c8" stroke="none"/>
+<rect x="885" y="243.2" width="26" height="6.2" fill="#916dc7" stroke="none"/>
+<rect x="885" y="238.0" width="26" height="6.2" fill="#8f6bc6" stroke="none"/>
+<rect x="885" y="232.7" width="26" height="6.2" fill="#8c68c4" stroke="none"/>
+<rect x="885" y="227.5" width="26" height="6.2" fill="#8a65c3" stroke="none"/>
+<rect x="885" y="222.3" width="26" height="6.2" fill="#8862c2" stroke="none"/>
+<rect x="885" y="217.0" width="26" height="6.2" fill="#865fc1" stroke="none"/>
+<rect x="885" y="211.8" width="26" height="6.2" fill="#845cc0" stroke="none"/>
+<rect x="885" y="206.5" width="26" height="6.2" fill="#8259be" stroke="none"/>
+<rect x="885" y="201.2" width="26" height="6.2" fill="#8056bd" stroke="none"/>
+<rect x="885" y="196.0" width="26" height="6.2" fill="#7e54bc" stroke="none"/>
+<rect x="885" y="190.8" width="26" height="6.2" fill="#7b51bb" stroke="none"/>
+<rect x="885" y="185.5" width="26" height="6.2" fill="#794eba" stroke="none"/>
+<rect x="885" y="180.2" width="26" height="6.2" fill="#774bb8" stroke="none"/>
+<rect x="885" y="175.0" width="26" height="6.2" fill="#7548b7" stroke="none"/>
+<rect x="885" y="169.8" width="26" height="6.2" fill="#7345b6" stroke="none"/>
+<rect x="885" y="164.5" width="26" height="6.2" fill="#7142b5" stroke="none"/>
+<rect x="885" y="159.2" width="26" height="6.2" fill="#6f3fb4" stroke="none"/>
+<rect x="885" y="154.0" width="26" height="6.2" fill="#6d3db3" stroke="none"/>
+<rect x="885" y="148.8" width="26" height="6.2" fill="#6a3ab1" stroke="none"/>
+<rect x="885" y="143.5" width="26" height="6.2" fill="#6837b0" stroke="none"/>
+<rect x="885" y="138.2" width="26" height="6.2" fill="#6634af" stroke="none"/>
+<rect x="885" y="133.0" width="26" height="6.2" fill="#6431ae" stroke="none"/>
+<rect x="885" y="127.7" width="26" height="6.2" fill="#622ead" stroke="none"/>
+<rect x="885" y="122.5" width="26" height="6.2" fill="#602bab" stroke="none"/>
+<rect x="885" y="117.3" width="26" height="6.2" fill="#5e28aa" stroke="none"/>
+<rect x="885" y="112.0" width="26" height="6.2" fill="#5c26a9" stroke="none"/>
+<rect x="885" y="106.8" width="26" height="6.2" fill="#5923a8" stroke="none"/>
+<rect x="885" y="101.5" width="26" height="6.2" fill="#5720a7" stroke="none"/>
+<rect x="885" y="96.2" width="26" height="6.2" fill="#551da5" stroke="none"/>
+<rect x="885" y="91.0" width="26" height="6.2" fill="#531aa4" stroke="none"/>
+<rect x="885" y="85.7" width="26" height="6.2" fill="#5117a3" stroke="none"/>
+<rect x="885" y="80.5" width="26" height="6.2" fill="#4f14a2" stroke="none"/>
+<rect x="885" y="75.2" width="26" height="6.2" fill="#4d11a1" stroke="none"/>
+<rect x="885" y="70" width="26" height="420" fill="none" stroke="#999"/>
+<line x1="911" y1="490.0" x2="916" y2="490.0" stroke="black"/>
+<text x="919" y="494.0" text-anchor="start" font-size="11" font-family="Arial">0.005</text>
+<line x1="911" y1="406.0" x2="916" y2="406.0" stroke="black"/>
+<text x="919" y="410.0" text-anchor="start" font-size="11" font-family="Arial">0.032</text>
+<line x1="911" y1="322.0" x2="916" y2="322.0" stroke="black"/>
+<text x="919" y="326.0" text-anchor="start" font-size="11" font-family="Arial">0.060</text>
+<line x1="911" y1="238.0" x2="916" y2="238.0" stroke="black"/>
+<text x="919" y="242.0" text-anchor="start" font-size="11" font-family="Arial">0.087</text>
+<line x1="911" y1="154.0" x2="916" y2="154.0" stroke="black"/>
+<text x="919" y="158.0" text-anchor="start" font-size="11" font-family="Arial">0.115</text>
+<line x1="911" y1="70.0" x2="916" y2="70.0" stroke="black"/>
+<text x="919" y="74.0" text-anchor="start" font-size="11" font-family="Arial">0.142</text>
+<text x="963" y="60" text-anchor="middle" font-size="12" font-family="Arial">Blocking</text>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="560" viewBox="0 0 900 560">
+<rect width="100%" height="100%" fill="white"/>
+<text x="450.0" y="28" text-anchor="middle" font-size="22" font-family="Arial">Service Acceptance at Peak Load (160 Erlangs)</text>
+<line x1="80" y1="470" x2="860" y2="470" stroke="black"/>
+<line x1="80" y1="470" x2="80" y2="50" stroke="black"/>
+<line x1="80" y1="470.0" x2="860" y2="470.0" stroke="#ececec"/>
+<text x="72" y="474.0" text-anchor="end" font-size="12" font-family="Arial">0.000</text>
+<line x1="80" y1="386.0" x2="860" y2="386.0" stroke="#ececec"/>
+<text x="72" y="390.0" text-anchor="end" font-size="12" font-family="Arial">0.229</text>
+<line x1="80" y1="302.0" x2="860" y2="302.0" stroke="#ececec"/>
+<text x="72" y="306.0" text-anchor="end" font-size="12" font-family="Arial">0.457</text>
+<line x1="80" y1="218.0" x2="860" y2="218.0" stroke="#ececec"/>
+<text x="72" y="222.0" text-anchor="end" font-size="12" font-family="Arial">0.686</text>
+<line x1="80" y1="134.0" x2="860" y2="134.0" stroke="#ececec"/>
+<text x="72" y="138.0" text-anchor="end" font-size="12" font-family="Arial">0.915</text>
+<line x1="80" y1="50.0" x2="860" y2="50.0" stroke="#ececec"/>
+<text x="72" y="54.0" text-anchor="end" font-size="12" font-family="Arial">1.144</text>
+<rect x="138.5" y="122.6" width="143.0" height="347.4" fill="#1f77b4"/>
+<text x="210.0" y="492" text-anchor="middle" font-size="12" font-family="Arial">DQN-EON</text>
+<text x="210.0" y="114.6" text-anchor="middle" font-size="12" font-family="Arial">0.946</text>
+<rect x="398.5" y="120.0" width="143.0" height="350.0" fill="#2ca02c"/>
+<text x="470.0" y="492" text-anchor="middle" font-size="12" font-family="Arial">PPO-EON</text>
+<text x="470.0" y="112.0" text-anchor="middle" font-size="12" font-family="Arial">0.953</text>
+<rect x="658.5" y="154.9" width="143.0" height="315.1" fill="#d62728"/>
+<text x="730.0" y="492" text-anchor="middle" font-size="12" font-family="Arial">Heuristic-FF</text>
+<text x="730.0" y="146.9" text-anchor="middle" font-size="12" font-family="Arial">0.858</text>
+<text x="450.0" y="540" text-anchor="middle" font-size="14" font-family="Arial">Method</text>
+<text x="20" y="280.0" transform="rotate(-90 20 280.0)" text-anchor="middle" font-size="14" font-family="Arial">Service Acceptance</text>
+</svg>
